@@ -24,6 +24,8 @@
 
   },<% } %>
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "grunt serve",
+    "install": "bower install"
   }
 }
